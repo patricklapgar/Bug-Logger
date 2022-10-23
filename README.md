@@ -1,75 +1,7 @@
-## Simple Electron React Boilerplate
+## Native Desktop Bug Log Tracking Tool
 
-This is a simple boilerplate to get up and running with Electron and React. It is a customized version of [Alex Devero's](https://github.com/alexdevero/electron-react-webpack-boilerplate) repo and is used in my Electron course
+I built this not too long ago to help my project team keep a log of bugs as we developed our projects.
 
-### Install
+It works quite well, but a few kinks need to be worked out in the near future...
 
-#### Clone this repo
-
-```
-git clone https://github.com/bradtraversy/simple-electron-react.git
-```
-
-#### Install dependencies
-
-```
-npm install
-```
-
-or
-
-```
-yarn
-```
-
-### Usage
-
-#### Run the app
-
-```
-npm run start
-```
-
-or
-
-```
-yarn start
-```
-
-#### Build the app (automatic)
-
-```
-npm run package
-```
-
-or
-
-```
-yarn package
-```
-
-#### Build the app (manual)
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-#### Test the app (after `npm run build` || `yarn run build`)
-
-```
-npm run prod
-```
-
-```
-yarn prod
-```
-
-### Change app title
-
-Change the app title in the **webpack.build.config.js** and the **webpack.dev.config.js** files
+To use this app, simply fork the repo, download the zip file, and away you go!!
